@@ -32,3 +32,6 @@ The project utilizes a rich dataset from Kaggle, containing statistics on daily 
 * Engagement metrics (views, likes, dislikes, comment count)
 * Categorical data (`category_id` in JSON files)
 * Video-specific details (tags, description)
+
+### **Architecture**
+
