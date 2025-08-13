@@ -34,4 +34,5 @@ The project utilizes a rich dataset from Kaggle, containing statistics on daily 
 * Video-specific details (tags, description)
 
 ### **Architecture**
+<img width="1742" height="926" alt="AWS ARCHITECTURE" src="https://github.com/user-attachments/assets/c412f460-d93f-4039-b8a9-e3c06b5a50bd" />
 
